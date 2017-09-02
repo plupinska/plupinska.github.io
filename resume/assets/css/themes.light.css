@@ -14,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #727272;
+  color: #151515;
 }
 
 /* Link Container */
@@ -37,7 +37,7 @@ h6 {
 a,
 .t-link-container .t-link-container__item,
 .t-link-container:hover .t-link-container__item--blended {
-  color: #7aa6bb;
+  color: #ff5bc4;
 }
 
 /* Hover Links */
@@ -45,7 +45,7 @@ a:hover,
 a:focus,
 a:active,
 .t-link-container:hover .t-link-container__item {
-  color: #e0a707;
+  color: black;
 }
 
 /* Horizontal Rulers */
@@ -62,31 +62,31 @@ hr,
 /* Primary Color */
 .t-primary-color,
 .t-primary-color-line {
-  color: #7aa6bb;
+  color: #ff5bc4;
 }
 
 .t-primary-bg,
 .t-primary-color-line {
-  background: #7aa6bb;
+  background: #ff5bc4;
 }
 
 /* Preloader */
 .t-preloader__spinner:not(:required):before {
-  border-top-color: #7aa6bb;
-  border-bottom-color: #7aa6bb;
+  border-top-color: #ff5bc4;
+  border-bottom-color: #ff5bc4;
 }
 
 /* Brand Colors */
 .t-title__first-word {
-  color: #939393;
+  color: black;
 }
 
 .t-title__second-word {
-  color: #7aa6bb;
+  color: #ff5bc4;
 }
 
 .t-sub-title {
-  color: #939393;
+  color: black;
 }
 
 /* Brand Typography */
@@ -113,17 +113,17 @@ hr,
 
 /* Icons */
 .fa {
-  color: #e0e0e0;
+  color: black;
 }
 
 /* Social Buttons */
 .t-social-button {
-  background: #ededed;
-  border-color: #ededed;
+  background: #ff5bc4;
+  border-color: #ff5bc4;
 }
 
 .t-social-button .fa {
-  color: #c6c6c6;
+  color: white;
 }
 
 .t-social-button:hover {
@@ -131,7 +131,7 @@ hr,
 }
 
 .t-social-button:hover .fa {
-  color: #7aa6bb;
+  color: #ff5bc4;
 }
 
 /* Image Overlay */
